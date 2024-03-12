@@ -13,5 +13,5 @@
 [El proyecto "Sistema de Gestión de Escuela de Robótica" es una aplicación web diseñada para ayudar a las escuelas de robótica en la gestión de cursos, usuarios y grupos. La plataforma proporciona herramientas intuitivas para profesores, estudiantes y administradores, permitiendo una experiencia educativa fluida y eficiente.]
 
 ## Diagrama ER:
-[Enlace al diagrama ER]
+[https://github.com/DanielMonreal/actividad7/blob/020293fbab0f0e15e439fdb7a4f720b5e8cbdc98/DiagramaER.jpg]
 
